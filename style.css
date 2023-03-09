@@ -1,6 +1,5 @@
 body{
-    background-image: url('https://www.teahub.io/photos/full/155-1557753_light-background-high-definition-wallpaper-light-high-resolution.jpg');
-    background-size: cover;
+    background-image: url('./ce.jpg');
 }
 .wrap{
     width: 800px;
