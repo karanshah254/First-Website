@@ -4,7 +4,7 @@
 
 ## Personal Portfolio
 
-- >My Portfolio<br>https://karanshah254.github.io/Portfolio-Project/
+- >My Portfolio<br>https://karanshah254.github.io/Portfolio-Project/index.html/
 
 ## Responsive Calculator Using HTML,CSS & JavaScript
 
