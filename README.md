@@ -1,6 +1,6 @@
 ﻿# First-Website
 
-- >Personal Website With FeedBack Form<br>https://karanshah254.github.io/First-Website/
+- >Personal Website<br>https://karanshah254.github.io/First-Website/
 
 ## Personal Portfolio
 
